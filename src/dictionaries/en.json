@@ -1,0 +1,42 @@
+{
+  "{count} slides": {
+    "one": "{count} slide",
+    "other": "{count} slides"
+  },
+  "{count} characters": {
+    "one": "{count} character",
+    "other": "{count} characters"
+  },
+  "{count} images, order: {names}": {
+    "one": "{count} image, order: {names}",
+    "other": "{count} images, order: {names}"
+  },
+  "Deal into {count} empty slots": {
+    "one": "Deal into {count} empty slot",
+    "other": "Deal into {count} empty slots"
+  },
+  "Scheduled {count} pushes": {
+    "one": "Scheduled {count} push",
+    "other": "Scheduled {count} pushes"
+  },
+  "Preview ({count} valid slideshows)": {
+    "one": "Preview ({count} valid slideshow)",
+    "other": "Preview ({count} valid slideshows)"
+  },
+  "Preview & Adjust ({count} slideshows)": {
+    "one": "Preview & Adjust ({count} slideshow)",
+    "other": "Preview & Adjust ({count} slideshows)"
+  },
+  "Banked {count} slides for reuse": {
+    "one": "Banked {count} slide for reuse",
+    "other": "Banked {count} slides for reuse"
+  },
+  "The {plan} plan includes {count} brands, upgrade to run more.": {
+    "one": "The {plan} plan includes {count} brand, upgrade to run more.",
+    "other": "The {plan} plan includes {count} brands, upgrade to run more."
+  },
+  "Deal every waiting slideshow across all {count} channels, each in its own order": {
+    "one": "Deal every waiting slideshow onto your {count} channel",
+    "other": "Deal every waiting slideshow across all {count} channels, each in its own order"
+  }
+}
